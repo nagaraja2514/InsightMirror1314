@@ -1,0 +1,215 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+h2{
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+img{
+    width:50%;
+    height: 300px;
+   
+}
+.div-1{
+    background: rgb(223, 223, 226);
+    display: flex;
+}
+.div-1 p {
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    margin-top: 50px;
+}
+.div-2{
+   
+    display: flex;
+}
+.div-2 p {
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    margin-top: 50px;
+}
+.bolt{
+    text-align: center;
+    margin-left: 150px;
+    padding: 3px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.f4{
+    margin-left: 50px;
+}
+
+footer{
+    background: rgb(44, 41, 41);
+    display: flex;
+    height: 350px;
+
+    
+}
+.footer{
+    color: blanchedalmond;
+    margin-left: 50px;
+    margin-top: 50px;
+   
+}
+a{
+    color: rgb(238, 220, 198);
+    display: block;
+    font-size: 12px;
+    
+    
+}
+.support{
+    color: blanchedalmond;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.terms{
+    color: blanchedalmond;
+    margin-left: 80px;
+    margin-top: 70px;
+    font-size: 10px;
+}
+.ft1{
+    display:inline-flex;
+    width: 60px;
+    height: 50px;
+    margin-top: 150px;
+    padding: 5px;
+}
+.ft11:hover{
+    padding: 1px;
+    background-color: blue;
+    color: blue;
+
+}
+.ft12:hover{
+    padding: 1px;
+    background-color: rgb(35, 97, 190);
+    color:  rgb(35, 97, 190);
+
+}
+.ft13:hover{
+    padding: 1px;
+    background-color: rgb(255, 17, 0);
+    color: rgb(255, 17, 0);
+
+}
+.ft14:hover{
+    padding: 1px;
+    background-color: rgb(238, 255, 0);
+    color: rgb(238, 255, 0);
+
+}
+.a1{
+    display: inline-flex;
+}
+.f-p{
+    color: rgb(255, 250, 248);
+   text-align: center;
+   margin-top:300px;
+   padding-left: -200px;
+}
+
+/* .div-3{
+    background: rgb(91, 92, 95);
+    display: flex;
+}
+.div-3 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-4{
+    
+    display: flex;
+}
+.div-4 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-5{
+    background: rgb(91, 92, 95);
+    display: flex;
+}
+.div-5 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-6{
+    
+    display: flex;
+}
+.div-6 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-7{
+    background: rgb(91, 92, 95);
+    display: flex;
+}
+.div-7 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-8{
+   
+    display: flex;
+}
+.div-8 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-9{
+    background: rgb(91, 92, 95);
+    display: flex;
+}
+.div-9 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-10{
+    
+    display: flex;
+}
+.div-10 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-11{
+    background: rgb(91, 92, 95);
+    display: flex;
+}
+.div-11 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-12{
+    
+    display: flex;
+}
+.div-12 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-13{
+    background: rgb(91, 92, 95);
+    display: flex;
+}
+.div-13 p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.div-14{
+    
+    display: flex;
+}
+.div-14 p {
+    margin-left: 30px;
+    margin-right: 30px;
+} */
